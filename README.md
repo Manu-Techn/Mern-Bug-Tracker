@@ -1,7 +1,7 @@
 MERN BUG TRACKER
 A minimal MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, and delete bugs in a project. This project includes unit, integration, and component testing, along with error handling and debugging best practices.
 
-TABLE OF CONTENTS
+TABLE OF CONTENTS:
 - Features
 - Project Structure
 - Installation
@@ -41,7 +41,7 @@ mern-bug-tracker/
 ```
 
 
-Features
+Features:
 - Add new bugs through a simple form.
 - View a list of all reported bugs.
 - Update bug statuses (open, in-progress, resolved).
@@ -52,7 +52,8 @@ Features
 - Unit, integration, and component tests using Jest, Supertest, and React Testing Library.
 
 RUNNING THE APP
-Backend
+Backend:
 - npm start/npm test
-Frontend
+
+Frontend:
 - npm start/npm test
