@@ -13,8 +13,9 @@ TABLE OF CONTENTS
 - License
 
 PROJECT STRUCTURE
+```
 mern-bug-tracker/
-```├── backend/
+├── backend/
 │   ├── models/                  # Mongoose schemas
 │   │   └── Bug.js               # Bug model
 │   ├── routes/                  # Express routes
@@ -36,7 +37,8 @@ mern-bug-tracker/
 │   │   └── index.js             # React entry point
 │   ├── package.json             # Frontend dependencies & scripts
 │   └── ...
-└── README.md                    # Project documentation```
+└── README.md                    # Project documentation
+```
 
 
 Features
