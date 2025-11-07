@@ -52,6 +52,7 @@ Features:
 - Unit, integration, and component tests using Jest, Supertest, and React Testing Library.
 
 RUNNING THE APP
+
 Backend:
 - npm start/npm test
 
